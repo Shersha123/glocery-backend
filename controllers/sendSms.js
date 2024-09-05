@@ -3,7 +3,6 @@
 // const client = require('twilio')(accountSid, authToken);
 // const fast2sms = require('fast-two-sms')
 
-
 // const otp = async()=>{
 //   try {
 
